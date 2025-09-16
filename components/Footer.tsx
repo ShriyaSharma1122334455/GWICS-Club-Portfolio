@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
                 <img src="../gwics.png" alt="GWICS Logo" className="h-10 w-10" />
               </div>
               <img
-                src="../public/nit.png"
+                src="../nit.png"
                 alt="NJIT Logo"
                 className="h-10 bg-white p-1 rounded"
               />
