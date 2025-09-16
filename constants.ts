@@ -7,14 +7,14 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'President',
     degree: 'MS in Computer Science',
     linkedinUrl: 'https://www.linkedin.com/in/shriyasharmacs26/',
-    imageUrl: '/public/Shriya.jpg',
+    imageUrl: '/Shriya.jpg',
     quote: 'GWICS is about building a community where every woman in tech feels seen, heard, and empowered to achieve her dreams.'
   },{
     name: 'Dr. James Geller',
     title: 'Academic Advisor',
     degree: 'Professor, Ying Wu College of Computing',
     linkedinUrl: 'https://www.linkedin.com/in/gwics-njit/',
-    imageUrl: '/public/Geller.png',
+    imageUrl: '/Geller.png',
     quote: 'Guiding the next generation of women leaders in technology is an honor. GWICS plays a vital role in this mission at NJIT.'
   },
   
@@ -23,7 +23,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'Vice President',
     degree: 'MS in CyberSecurity',
     linkedinUrl: 'https://www.linkedin.com/in/snehalnikalje/',
-    imageUrl: '/public/Snehal Nikalje.jpg',
+    imageUrl: '/Snehal Nikalje.jpg',
     quote: 'We rise by lifting others. GWICS provides the platform to connect, learn, and grow together in the vast field of computing.'
   },
   {
@@ -31,7 +31,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'Secretary',
     degree: 'MS in Data Science',
     linkedinUrl: 'https://www.linkedin.com/in/nithya-shree-raman-sujatha-610663240/',
-    imageUrl: '/public/Nithya Shree.jpg',
+    imageUrl: '/Nithya Shree.jpg',
     quote: 'Being part of GWICS means creating a supportive network that fosters both academic and personal development for women in tech.'
   },
   {
@@ -39,7 +39,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'Treasurer',
     degree: 'MS in Computer Science',
     linkedinUrl: 'https://www.linkedin.com/in/jyothsna-ravi-prakash-50827b2a2/',
-    imageUrl: '/public/jyotsna.jpg',
+    imageUrl: '/jyotsna.jpg',
     quote: 'Empowerment through collaboration is at the heart of GWICS. It’s a privilege to support our members on their journey.'
   },
   {
@@ -47,7 +47,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'Event Coordinator',
     degree: 'MS in Artificial Intelligence',
     linkedinUrl: 'https://www.linkedin.com/in/kaviya-sree-rm/',
-    imageUrl: '/public/Kaviya.jpg',
+    imageUrl: '/Kaviya.jpg',
     quote: 'I love bringing people together. At GWICS, we create events that are not just informative but also fun and inspiring.'
   },
   {
@@ -55,7 +55,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'Social Media Coordinator',
     degree: 'MS in Computer Science',
     linkedinUrl: 'https://www.linkedin.com/in/ishitadesai27/',
-    imageUrl: '/public/ishita.jpg',
+    imageUrl: '/ishita.jpg',
     quote: 'Through social media, we can amplify the voices of women in computing and showcase the incredible work being done at GWICS.'
   }
 ];
@@ -64,17 +64,17 @@ export const UPCOMING_EVENTS: Event[] = [
   {
     title: 'Women Enjoying Bagels',
     description: 'To end the semester on a good note, connecting with women in the university over delicious bagels and coffee.',
-    imageUrl: '/public/bagel.png',
+    imageUrl: '/bagel.png',
   },
   {
     title: 'Cybersecurity Workshop: Beyond the Basics',
     description: 'A hands-on session focusing on the latest trends and tools in artificial intelligence. Bring your laptops!',
-    imageUrl: '/public/cnc.jpg',
+    imageUrl: '/cnc.jpg',
   },
   {
     title: 'AI Digital Surveillance: Ethics & Tech',
     description: 'Explore the ethical implications and technical aspects of AI in surveillance with industry experts.',
-    imageUrl: 'public/ai.jpg',
+    imageUrl: '/ai.jpg',
   },
   {
     title: 'Next Level of Web Development',
@@ -84,7 +84,7 @@ export const UPCOMING_EVENTS: Event[] = [
   {
     title: 'Navigating DEI Implications in STEAM',
     description: 'A critical discussion on diversity, equity, and inclusion, and how they apply to the fields of STEAM.',
-    imageUrl: 'public/stem.jpeg',
+    imageUrl: '/stem.jpeg',
   },
   {
     title: 'De-Stress Before End Sem',
@@ -97,7 +97,7 @@ export const PAST_EVENTS: Event[] = [
   {
     title: 'Women Enjoying Bagels',
     description: 'Kicked off the academic year by welcoming new and returning members with an evening of networking and fun.',
-    imageUrl: 'public/bagel.png',
+    imageUrl: '/bagel.png',
   },
   {
     title: 'Interactive Talk',
@@ -107,11 +107,11 @@ export const PAST_EVENTS: Event[] = [
   {
     title: 'Compete with SQL',
     description: 'A friendly competition where members solved coding challenges, sharpened their skills, and won prizes.',
-    imageUrl: '/public/sql.jpg',
+    imageUrl: '/sql.jpg',
   },
     {
     title: 'Hackathon',
     description: 'Hackathon for Graduate Students in Computer and Business Majors',
-    imageUrl: '/public/hackathon.jpg',
+    imageUrl: '/hackathon.jpg',
   }
 ];
