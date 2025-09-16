@@ -39,7 +39,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     title: 'Treasurer',
     degree: 'MS in Computer Science',
     linkedinUrl: 'https://www.linkedin.com/in/jyothsna-ravi-prakash-50827b2a2/',
-    imageUrl: '/jyotsna.jpg',
+    imageUrl: '/jyothsna_image.jpg',
     quote: 'Empowerment through collaboration is at the heart of GWICS. It’s a privilege to support our members on their journey.'
   },
   {
