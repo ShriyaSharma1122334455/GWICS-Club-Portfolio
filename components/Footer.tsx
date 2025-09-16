@@ -1,4 +1,5 @@
 import React from "react";
+import GwicsLogo from "./icons/GwicsLogo";
 
 const Footer: React.FC = () => {
   return (
@@ -8,11 +9,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col space-y-4">
             <div className="flex items-center space-x-4">
               <div className="bg-white rounded-full p-1">
-                <img
-                  src="public/gwics.png"
-                  alt="GWICS Logo"
-                  className="h-12 w-12"
-                />
+                <GwicsLogo className="h-10 w-10" />
               </div>
               <img
                 src="/public/nit.png"
