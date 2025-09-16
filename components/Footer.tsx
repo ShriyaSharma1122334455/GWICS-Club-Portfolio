@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
               <div className="bg-white rounded-full p-1">
                 <img src="../gwics.png" alt="GWICS Logo" className="h-10 w-10" />
               </div>
-              <img src="../nit.png" alt="NJIT Logo" className="h-10" />
+              <img src="../nit.png" alt="NJIT Logo" className="h-10 w-20" />
             </div>
             <p className="text-slate-400 text-sm">
               Graduate Women in Computing Society at New Jersey Institute of
