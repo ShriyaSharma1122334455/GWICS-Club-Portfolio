@@ -55,7 +55,11 @@ const Header: React.FC<HeaderProps> = ({ activeSection }) => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
               <a href="#home" className="flex items-center space-x-2">
-                <GwicsLogo className="h-16 w-16" />
+                <img
+                  src="public/gwics.png"
+                  alt="GWICS Logo"
+                  className="h-12 w-12"
+                />
                 <span className="text-slate-800 font-semibold hidden sm:block">
                   Graduate Women in Computing Society
                 </span>
