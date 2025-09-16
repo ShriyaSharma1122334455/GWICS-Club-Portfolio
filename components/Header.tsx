@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import type { SectionId } from "../types";
-import GwicsLogo from "./icons/GwicsLogo";
 import MenuIcon from "./icons/MenuIcon";
 import CloseIcon from "./icons/CloseIcon";
 
