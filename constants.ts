@@ -74,7 +74,7 @@ export const UPCOMING_EVENTS: Event[] = [
   {
     title: 'AI Digital Surveillance: Ethics & Tech',
     description: 'Explore the ethical implications and technical aspects of AI in surveillance with industry experts.',
-    imageUrl: '/public/ai.jpg',
+    imageUrl: 'public/ai.jpg',
   },
   {
     title: 'Next Level of Web Development',
@@ -84,7 +84,7 @@ export const UPCOMING_EVENTS: Event[] = [
   {
     title: 'Navigating DEI Implications in STEAM',
     description: 'A critical discussion on diversity, equity, and inclusion, and how they apply to the fields of STEAM.',
-    imageUrl: '/public/stem.jpeg',
+    imageUrl: 'public/stem.jpeg',
   },
   {
     title: 'De-Stress Before End Sem',
@@ -97,12 +97,12 @@ export const PAST_EVENTS: Event[] = [
   {
     title: 'Women Enjoying Bagels',
     description: 'Kicked off the academic year by welcoming new and returning members with an evening of networking and fun.',
-    imageUrl: '/public/bagel.png',
+    imageUrl: 'public/bagel.png',
   },
   {
     title: 'Interactive Talk',
     description: 'Hosted an inspiring Tech Talk with Angelique Taylor from top tech companies who shared their career journeys and insights.',
-    imageUrl: '/public/tech talk.png',
+    imageUrl: 'public/tech talk.png',
   },
   {
     title: 'Compete with SQL',
