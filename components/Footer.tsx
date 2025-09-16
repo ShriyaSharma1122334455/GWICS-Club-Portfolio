@@ -9,11 +9,10 @@ const Footer: React.FC = () => {
           <div className="flex flex-col space-y-4">
             <div className="flex items-center space-x-4">
               <div className="bg-white rounded-full p-1">
-                <img src="../public/gwics.png" alt="GWICS Logo" className="h-10 w-10" />
-                <img src="./public/gwics.png" alt="GWICS Logo" className="h-50 w-50" />
+                <img src="../public/gwics.png" alt="GWICS Logo" className="h-14 w-14" />
               </div>
               <img
-                src="../nit.png"
+                src="../public/nit.png"
                 alt="NJIT Logo"
                 className="h-10 bg-white p-1 rounded"
               />
