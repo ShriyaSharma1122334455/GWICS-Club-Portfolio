@@ -102,7 +102,7 @@ export const PAST_EVENTS: Event[] = [
   {
     title: 'Interactive Talk',
     description: 'Hosted an inspiring Tech Talk with Angelique Taylor from top tech companies who shared their career journeys and insights.',
-    imageUrl: 'public/tech talk.png',
+    imageUrl: '/tech talk.png',
   },
   {
     title: 'Compete with SQL',
